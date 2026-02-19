@@ -1,14 +1,14 @@
  body {
-            font-family: Arial;
-            margin: 40px;
-        }
+font-family: Arial;
+margin: 40px;
+}
 
-        input, button {
-            padding: 5px;
-            margin: 5px;
-        }
+input, button {
+padding: 5px;
+margin: 5px;
+}
 
-        #result {
-            margin-top: 15px;
-            font-weight: bold;
-        }
+#result {
+margin-top: 15px;
+font-weight: bold;
+}
