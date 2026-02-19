@@ -21,7 +21,8 @@ if (person.age < 12) {
 person.category = "Ребёнок";
 
  } 
- else if (person.age >= 12 && person.age <= 17) { person.category = "Подросток";
+ else if (person.age >= 12 && person.age <= 17) {
+   person.category = "Подросток";
   
  } else { 
     person.category = "Взрослый";
