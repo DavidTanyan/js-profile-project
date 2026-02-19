@@ -1,4 +1,7 @@
-let nameInput = document.getElementById("nameInput"); let ageInput = document.getElementById("ageInput"); let createBtn = document.getElementById("createBtn"); let result = document.getElementById("result"); 
+let nameInput = document.getElementById("nameInput");
+let ageInput = document.getElementById("ageInput");
+let createBtn = document.getElementById("createBtn"); 
+let result = document.getElementById("result"); 
 
 createBtn.addEventListener("click", function () {
 
